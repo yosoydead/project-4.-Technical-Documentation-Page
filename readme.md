@@ -1,15 +1,15 @@
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
 
 To do's:
-1. [ ] 1. I can see a ```main``` element with a corresponding ```id="main-doc"```, which contains the page's main content (technical documentation).
-2. [ ] 2. Within the ```#main-doc``` element, I can see several ```section``` elements, each with a class of ```main-section```. There should be a minimum of 5.
-3. [ ] 3. The first element within each ```.main-section``` should be a ```header``` element which contains text that describes the topic of that section.
-4. [ ] 4. Each ```section``` element with the class of ```main-section``` should also have an id that corresponds with the text of each ```header``` contained within it. Any spaces should be replaced with underscores (e.g. The section that contains the header "Javascript and Java" should have a corresponding ```id="Javascript_and_Java"```).
-5. [ ] 5. The ```.main-section``` elements should contain at least 10 ```p``` elements total (not each).
-6. [ ] 6. The ```.main-section``` elements should contain at least 5 ```code``` elements total (not each).
-7. [ ] 7. The ```.main-section``` elements should contain at least 5 ```li``` items total (not each).
-8. [ ] 8. I can see a ```nav``` element with a corresponding ```id="navbar"```.
-9. [ ] 9. The navbar element should contain one ```header``` element which contains text that describes the topic of the technical documentation.
+1. [x] 1. I can see a ```main``` element with a corresponding ```id="main-doc"```, which contains the page's main content (technical documentation).
+2. [x] 2. Within the ```#main-doc``` element, I can see several ```section``` elements, each with a class of ```main-section```. There should be a minimum of 5.
+3. [x] 3. The first element within each ```.main-section``` should be a ```header``` element which contains text that describes the topic of that section.
+4. [x] 4. Each ```section``` element with the class of ```main-section``` should also have an id that corresponds with the text of each ```header``` contained within it. Any spaces should be replaced with underscores (e.g. The section that contains the header "Javascript and Java" should have a corresponding ```id="Javascript_and_Java"```).
+5. [x] 5. The ```.main-section``` elements should contain at least 10 ```p``` elements total (not each).
+6. [x] 6. The ```.main-section``` elements should contain at least 5 ```code``` elements total (not each).
+7. [x] 7. The ```.main-section``` elements should contain at least 5 ```li``` items total (not each).
+8. [x] 8. I can see a ```nav``` element with a corresponding ```id="navbar"```.
+9. [x] 9. The navbar element should contain one ```header``` element which contains text that describes the topic of the technical documentation.
 10. [ ] 10. Additionally, the navbar should contain link (```a```) elements with the class of ```nav-link```. There should be one for every element with the class ```main-section```.
 11. [ ] 11. The ```header``` element in the navbar must come before any link (```a```) elements in the navbar.
 12. [ ] 12. Each element with the class of ```nav-link``` should contain text that corresponds to the ```header``` text within each ```section``` (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world").
